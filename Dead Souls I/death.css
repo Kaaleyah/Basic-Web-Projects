@@ -1,0 +1,106 @@
+.ashenOne {
+  margin-top: 30px;
+  font-size: 70px;
+  color: #841240;
+}
+
+.stopwatch {
+  font-size: 100px;
+  color: #841240;
+  margin-top: 70px;
+}
+
+#DeathCounter {
+  margin-top: 0px;
+  font-size: 200px;
+  color: #841240;
+}
+
+#plus:hover {
+  border: 3px solid #841240;
+}
+
+.wiki {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.wiki1 {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+  background-color: #C6C6CE;
+}
+
+.wiki:hover {
+  border: 1px solid #841240;
+}
+
+#plus {
+  width: 150px;
+  height: 150px;
+}
+
+.plus {
+  margin-left: 300px
+}
+
+body {
+  font-family: "SoulFont";
+  background-image: url(background/mixed.png);
+  background-repeat: no-repeat;
+}
+
+.bosses {
+  color: #C6C6CE;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.boss {
+  position: absolute;
+  right: 0px;
+}
+
+@@font-face {
+  font-family: "SoulFont"
+  src: url(fonts/OptimusPrinceps.ttf);
+}
+
+span {
+  background-color: #212929;
+}
+
+.start {
+  height: 50px;
+  width: 70px;
+  font-size: 20px;
+  background-color: #212929;
+  margin-left: 20px;
+  padding: 5px;
+  color: #C64A5A;
+}
+
+.controls {
+  margin-right: 140px;
+}
+
+.done {
+  text-decoration: line-through;
+  opacity: 0.7;
+}
+
+.check {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+  background-color: #C6C6CE;
+  padding: 5px;
+  font-size: 25px;
+}
+
+.boss1 {
+  margin-left: 400px;
+  margin-bottom: 200px;
+}
